@@ -412,8 +412,7 @@ With it you can't open the app from the start menu, auto update the app, etc.
 #### Web-Setup.exe
 
 Setup version - Installer (Windows)
-(normal) xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+(recommended way for Windows)
 
 #### amd64.deb
 
