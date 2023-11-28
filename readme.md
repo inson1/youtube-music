@@ -82,9 +82,63 @@ winget install th-ch.YouTubeMusic
 
 ## Features:
 
+-**Basic Youtube Music features**
+
+- **Menu**
+
 - **Auto confirm when paused** (Always Enabled): disable
   the ["Continue Watching?"](https://user-images.githubusercontent.com/61631665/129977894-01c60740-7ec6-4bf0-9a2c-25da24491b0e.png)
   popup that pause music after a certain time
+
+- **Auto update**: Auto updates the app, when new version is released
+
+- **Resume last song when app starts**
+
+- **Starting Page**: You may choose your starting page
+
+- **Visual Tweaks**: xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+- **Single Instance lock**
+
+- **Always on top**
+
+- **Hide menu**
+
+- **Start at login**: makes the app start at pc login
+
+- **Tray**
+
+- **Set Proxy**
+
+- **Override useragent**
+
+- **Disable hardware accerelation**
+
+- **Restart on config changes**
+
+- **Reset App cache when app starts**
+
+- **Toggle Developer Tools**
+
+- **Edit config.json**
+
+- **Reload/Force Reload**
+
+- **Zoom In/Out**
+
+- **Actual Size**
+
+- **Toggle Full Screen**
+
+- **Navigation** - Go back, Go forward
+
+- **Copy current URL**
+
+- **Restart App**
+
+- **Exit**
+
+- **[Plugins](https://github.com/th-ch/youtube-music#available-plugins)**
 
  - And more ...
 
@@ -319,3 +373,56 @@ MIT © [th-ch](https://github.com/th-ch/youtube-music)
 
 If `Hide Menu` option is on - you can show the menu with the <kbd>alt</kbd> key (or <kbd>\`</kbd> [backtick] if using
 the in-app-menu plugin)
+
+### What release file should I install?
+
+#### latest-linux.yml
+
+#### latest-mac.yml
+
+#### latest.yml
+
+#### arm64.dmg
+
+#### arm64.dmg.blockmap
+
+#### arm64.nsis.7z
+
+x
+
+#### ia32.nsis.7z
+
+x
+
+#### x64.nsis.7z
+
+x
+
+#### AppImage
+
+#### dmg
+
+#### dmg.blockmap
+
+#### exe
+
+Portable version (Windows)
+(you run the exe directly to run the app)
+(It doesn't install anything to your system, and it is standalone) 
+With it you can't open the app from the start menu, auto update the app, etc.
+
+#### freebsd
+
+#### x86_64.rpm
+
+#### Web-Setup.exe
+
+Setup version - Installer (Windows)
+(normal) xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+#### amd64.deb
+
+#### amd64.snap
+
+#### zip vs tar.gz
