@@ -86,6 +86,8 @@ winget install th-ch.YouTubeMusic
 
 - **Menu**
 
+- **[Plugins](https://github.com/th-ch/youtube-music#available-plugins)**
+
 - **Auto confirm when paused** (Always Enabled): disable
   the ["Continue Watching?"](https://user-images.githubusercontent.com/61631665/129977894-01c60740-7ec6-4bf0-9a2c-25da24491b0e.png)
   popup that pause music after a certain time
@@ -137,8 +139,6 @@ winget install th-ch.YouTubeMusic
 - **Restart App**
 
 - **Exit**
-
-- **[Plugins](https://github.com/th-ch/youtube-music#available-plugins)**
 
  - And more ...
 
