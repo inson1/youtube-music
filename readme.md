@@ -82,7 +82,7 @@ winget install th-ch.YouTubeMusic
 
 ## Features:
 
--**Basic Youtube Music features**
+- **Basic Youtube Music features**
 
 - **Menu**
 
