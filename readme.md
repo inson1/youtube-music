@@ -86,13 +86,13 @@ winget install th-ch.YouTubeMusic
 
 - **Menu**
 
-- **App Control from menu**: Reload, Force Reload, Restart App, Exit
+  - **App Control from menu**: Reload, Force Reload, Restart App, Exit
 
-- **Navigation from menu**: Go back/forward
+  - **Navigation from menu**: Go back/forward
 
-- **Zoom from menu** - Zoom Out/In, Actual Size
+  - **Zoom from menu** - Zoom Out/In, Actual Size
 
-- **Toggle Full Screen from menu**
+  - **Toggle Full Screen from menu**
 
 - **[Plugins](https://github.com/th-ch/youtube-music#available-plugins)**
 
@@ -142,7 +142,7 @@ winget install th-ch.YouTubeMusic
 
 - **Album Color Theme**: Applies a dynamic theme and visual effects based on the album color palette
 
-- **Ambient Mode**: Applies a lighting effect by casting gentle colors from the video, into your screen’s background.
+- **Ambient Mode**: Applies a lighting effect by casting gentle colors from the video, into your screen’s background
 
 - **Audio Compressor**: Apply compression to audio (lowers the volume of the loudest parts of the signal and raises the
   volume of the softest parts)
@@ -221,7 +221,7 @@ winget install th-ch.YouTubeMusic
 
 - **Video Toggle**: Adds
   a [button](https://user-images.githubusercontent.com/28893833/173663950-63e6610e-a532-49b7-9afa-54cb57ddfc15.png) to
-  switch between Video/Song mode. can also optionally remove the whole video tab
+  switch between Video/Song mode, can also optionally remove the whole video tab
 
 - **Visualizer**: Different music visualizers
 
