@@ -86,15 +86,15 @@ winget install th-ch.YouTubeMusic
 
 - **Menu**
 
-  - **App Control from menu**: Reload, Force Reload, Restart App, Exit
+  - **App Control**: Reload, Force Reload, Restart App, Exit
 
-  - **Navigation from menu**: Go back/forward
+  - **Navigation**: Go back/forward
 
-  - **Zoom from menu** - Zoom Out/In, Actual Size
+  - **Zoom** - Zoom Out/In, Actual Size
 
-  - **Toggle Full Screen from menu**
+  - **Toggle Full Screen**
  
-  - **Toggle Developer Tools from menu**
+  - **Toggle Developer Tools**
 
 - **[Plugins](https://github.com/th-ch/youtube-music#available-plugins)**
 
