@@ -86,6 +86,14 @@ winget install th-ch.YouTubeMusic
 
 - **Menu**
 
+- **App Control from menu**: Reload, Force Reload, Restart App, Exit
+
+- **Navigation from menu**: Go back/forward
+
+- **Zoom from menu** - Zoom Out/In, Actual Size
+
+- **Toggle Full Screen from menu**
+
 - **[Plugins](https://github.com/th-ch/youtube-music#available-plugins)**
 
 - **Auto confirm when paused** (Always Enabled): disable
@@ -98,7 +106,7 @@ winget install th-ch.YouTubeMusic
 
 - **Starting Page**: You may choose your starting page
 
-- **Visual Tweaks**: xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+- **Visual Tweaks**
 
 - **Single Instance lock**
 
@@ -106,7 +114,7 @@ winget install th-ch.YouTubeMusic
 
 - **Hide menu**
 
-- **Start at login**: makes the app start at pc login
+- **Start at login**: Makes the app start at pc login
 
 - **Tray**
 
@@ -124,21 +132,7 @@ winget install th-ch.YouTubeMusic
 
 - **Edit config.json**
 
-- **Reload/Force Reload**
-
-- **Zoom In/Out**
-
-- **Actual Size**
-
-- **Toggle Full Screen**
-
-- **Navigation** - Go back, Go forward
-
 - **Copy current URL**
-
-- **Restart App**
-
-- **Exit**
 
  - And more ...
 
