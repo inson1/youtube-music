@@ -93,6 +93,8 @@ winget install th-ch.YouTubeMusic
   - **Zoom from menu** - Zoom Out/In, Actual Size
 
   - **Toggle Full Screen from menu**
+ 
+  - **Toggle Developer Tools from menu**
 
 - **[Plugins](https://github.com/th-ch/youtube-music#available-plugins)**
 
@@ -127,8 +129,6 @@ winget install th-ch.YouTubeMusic
 - **Restart on config changes**
 
 - **Reset App cache when app starts**
-
-- **Toggle Developer Tools**
 
 - **Edit config.json**
 
