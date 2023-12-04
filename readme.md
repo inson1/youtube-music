@@ -231,15 +231,6 @@ You can load CSS files to change the look of the application (Options > Visual T
 
 Some predefined themes are available in https://github.com/kerichdev/themes-for-ytmdesktop-player.
 
-## Dev
-
-```bash
-git clone https://github.com/th-ch/youtube-music
-cd youtube-music
-pnpm install --frozen-lockfile
-pnpm start
-```
-
 ## Upstream bugs/problems
 
 ### Electron
@@ -249,6 +240,15 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 ### Youtube Music
 
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+## Dev
+
+```bash
+git clone https://github.com/th-ch/youtube-music
+cd youtube-music
+pnpm install --frozen-lockfile
+pnpm start
+```
 
 ## Build your own plugins
 
