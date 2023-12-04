@@ -240,6 +240,16 @@ pnpm install --frozen-lockfile
 pnpm start
 ```
 
+## Upstream bugs/problems
+
+### Electron
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+### Youtube Music
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
 ## Build your own plugins
 
 Using plugins, you can:
